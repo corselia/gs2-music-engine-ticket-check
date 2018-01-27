@@ -21,6 +21,9 @@ $ ruby gs2_music_engine_ticket_check.rb
 - Notify by LINE
 - etc...
 
+# Image
+![scarping_image](scraping_image.jpg)
+
 # LICENSE
 - [MIT LICENSE](LICENSE)
 
