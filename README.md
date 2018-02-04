@@ -1,6 +1,6 @@
 # Overviews
 - Check eplus ticket status of [Suikoden 2 orchestra concert (by MUSIC ENGINE)](http://musicengine-info.net/live2018)
- 
+
 # Required
 - Headless Chrome
 - Selenium
@@ -15,7 +15,7 @@ $ ruby gs2_music_engine_ticket_check.rb
 
 # Application
 - Twitter bot
-    - Under development
+    - here :) [https://github.com/corselia/scheduling_tweets_bot](https://github.com/corselia/scheduling_tweets_bot)
 - Notify by email
     - Under development
 - Notify by LINE
